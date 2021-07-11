@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-
-I wanna die now. Why did I chooose to study this program.
-Use the left arrow to go back!
+I love you na
+Will you go to England with me?
+If I could turn back the clock
